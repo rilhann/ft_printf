@@ -1,5 +1,5 @@
 NAME = libftprintf
-CC = gcc
+CC = gcc 
 INC = ft_printf.h
 CFALGS = -Wall -Wextra -Werror
 
